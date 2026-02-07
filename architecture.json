@@ -1,0 +1,160 @@
+{
+  "book_id": "beat_generation_epic_narrative_power_corruption",
+  "title": "The Corrupted Howl",
+  "tagline": "A fallen Beat king must confront the monstrous successor who weaponizes his own revolution.",
+  "target_words": 70000,
+  "actual_words": 70879,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Corruption of Artistic Purity",
+    "Generational Theft and Legacy",
+    "The Seduction of Cultural Power",
+    "Authenticity as a Performative Commodity"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Bad Drum Solo",
+      "words": 2950
+    },
+    {
+      "ch": 2,
+      "title": "The Reflection in the Glass",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "The Galleon's Ghost",
+      "words": 2950
+    },
+    {
+      "ch": 4,
+      "title": "Lucien's First Verse",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "The Angry Fix",
+      "words": 2950
+    },
+    {
+      "ch": 6,
+      "title": "Old Lions, New Teeth",
+      "words": 2950
+    },
+    {
+      "ch": 7,
+      "title": "The Syndicate's Whisper",
+      "words": 2950
+    },
+    {
+      "ch": 8,
+      "title": "Selling the Subterranean",
+      "words": 2950
+    },
+    {
+      "ch": 9,
+      "title": "The Ghost of North Beach",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "A Pact in Smoke",
+      "words": 2950
+    },
+    {
+      "ch": 11,
+      "title": "The Manufactured Scene",
+      "words": 2950
+    },
+    {
+      "ch": 12,
+      "title": "Betrayal in Mimeograph",
+      "words": 2950
+    },
+    {
+      "ch": 13,
+      "title": "The Hollow Crown",
+      "words": 2950
+    },
+    {
+      "ch": 14,
+      "title": "Corso's Calculus",
+      "words": 2950
+    },
+    {
+      "ch": 15,
+      "title": "The Beat Goes Corporate",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "A Whiskey-Soaked Reckoning",
+      "words": 2950
+    },
+    {
+      "ch": 17,
+      "title": "Burning the Bridge",
+      "words": 2950
+    },
+    {
+      "ch": 18,
+      "title": "The Last Real Thing",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "Street Fight for a Soul",
+      "words": 2950
+    },
+    {
+      "ch": 20,
+      "title": "The Final Reading",
+      "words": 2950
+    },
+    {
+      "ch": 21,
+      "title": "Confession Under Neon",
+      "words": 2950
+    },
+    {
+      "ch": 22,
+      "title": "Choosing the Gutters",
+      "words": 2950
+    },
+    {
+      "ch": 23,
+      "title": "A New, Quiet Howl",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "Rain on a Different Roof",
+      "words": 2950
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a young, hungry poet confronts their aging idol, accusing them of selling out the very movement they founded.",
+      "Draft a monologue from Lucien Bell's perspective, explaining why he believes corrupting Kerwood's legacy is a necessary and purifying act.",
+      "Create a 'found poem' assembled from advertising slogans, corporate memos, and social media posts, in the style of a corrupted Beat poem.",
+      "Describe a pivotal, silent moment between Kerwood and Corso in the back office of The Galleon, where their decades-long friendship fractures over money and principle."
+    ],
+    "technical": [
+      "Build a 'Beat Corruption Engine'—a text transformer that takes a passage of authentic, emotional writing and systematically rewrites it in the style of corporate jargon, advertising speak, or hollow social media performance.",
+      "Create an interactive map of North Beach, San Francisco, circa 1964, plotting real and fictional Beat landmarks, with audio clips of poetry that decay into advertisements as the user 'sells out' locations."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "William S. Burroughs",
+      "Miles Davis",
+      "Patricia Highsmith",
+      "Fyodor Dostoevsky"
+    ]
+  },
+  "cover_prompt": "A fallen Beat poet king, gaunt and weary in a threadbare suit, clutches a fractured vinyl record like a shield, his face a mask of haunted defiance as he confronts the monstrous, shimmering specter of his successor, [Detailed Scene & Context: within the cavernous, smoke-choked ruins of a legendary underground jazz club, where torn manuscript pages flutter like ghosts and the shadows of a frenzied, faceless crowd writhe on decaying walls], [Artistic Style & Medium: in the gritty, expressive, and texturally raw style of Ralph Steadman mixed with the dramatic chiaroscuro of Caravaggio, rendered in oil paint and ink splatter on distressed canvas], [Composition & Camera: book cover framing, a centered and confrontational composition with a low, dramatic angle that emphasizes the towering, corrupted form of the successor looming over the fallen king], [Lighting & Color Palette: stark, high-contrast Rembrandt lighting with a sickly, cinematic color palette of bruised purples, nicotine-stained yellows, and the violent crimson of spilled wine], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
