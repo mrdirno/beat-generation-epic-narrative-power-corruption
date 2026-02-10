@@ -1,6 +1,10 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
-The rain on the roof of the Hudson Hornet was a bad drum solo. It had no rhythm, just a frantic, spattering panic. Jack Kerwood drove with one hand on the wheel, the other holding a cigarette out the window, letting the wet wind eat the ash. The wipers slapped a lazy, useless arc. Beyond the glass, the neon of San Francisco’s North Beach bled into the pavement, reds and sickly yellows swimming in the gutters like poisoned fish.
+Kerouac’s ghost haunted the typewriter keys, but Dean owned the story. He’d carve the legend himself, a roman candle narrative burning through the static of truth. Every lie he told about the road became another mile of it, asphalt laid down by sheer, beautiful, corrupting talk.
+
+
 
 He was looking for a parking spot, which in this life was the same as looking for God: a futile exercise in hope against evidence. The Beat, the real Beat, was supposed to be about motion, but here he was, stalled, engine idling, watching a world dissolve in water and light. Ten years ago, he’d have been in some basement, words firing from his mouth like roman candles, a circle of hungry faces lit by the blast. Now he was a thirty-eight-year-old man with a slight paunch testing his belt, circling the block for the third time, on his way to a poetry reading he was supposed to *host*.
 
@@ -147,6 +151,8 @@ He gathered the pages, screwed the wooden covers back on. The rough grain felt l
 As he stepped back out into the morning, the rain had stopped. The city was washed clean and new, the air sharp. Jack Kerwood, the last lion of the roar, walked to his car with a secret history under his arm, feeling, for the first time in a decade, the terrible, exhilarating weight of something real.
 
 ---
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The Galleon in the morning light was a corpse. Last night’s beer stank sour in the damp air. The chairs were upturned on tables, and the single bulb over the bar cast a sickly yellow puddle on the polished wood. Alan Corso stood behind the bar, not polishing a glass, just gripping the edge, his knuckles white. Two men sat on stools in the center of the puddle.
@@ -328,6 +334,8 @@ He didn’t write on Bell’s manuscript. He took a fresh sheet of his own paper
 He folded the page, put it in his pocket, and went to find his leather jacket. The game, it seemed, was back on. And for the first time in a long, long time, Jack Kerwood was not the master of ceremonies. He was a player. And the stakes were no longer literary. They were mortal.
 
 ---
+# Chapter 3
+
 ## **CHAPTER 3**
 
 The waterfront at night was a kingdom of shadows and echoes. The great piers, skeletal and rotting, jutted into the black bay like the ribs of dead leviathans. Fog, the city’s true breath, coiled in from the Pacific, muffling the distant clang of a ship’s bell, swallowing the glow of the city behind him. Kerwood parked the Hornet two blocks away, in the lee of a closed fish-packing plant that smelled of salt and decay.
